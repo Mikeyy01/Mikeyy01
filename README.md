@@ -1,4 +1,4 @@
-[![MasterHead](https://imgur.com/a/v46Woqg)](https://aslanidis.dev/)
+[![MasterHead](https://i.imgur.com/UhNvnk2.png)](https://aslanidis.dev/)
 
 
 <h1 align="center">Hi 👋, I'm Michael</h1>
