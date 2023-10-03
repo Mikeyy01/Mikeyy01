@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://aslanidis.dev/](https://aslanidis.dev/)
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1D4qgzvED932p6RTfhCFVCB8QXCAU0lDL/view)
+- 📄 Know about my experiences: {updating...}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
